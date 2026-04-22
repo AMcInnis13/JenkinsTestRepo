@@ -1,0 +1,7 @@
+cs350\poker\analysis\HandAnalyzer.class
+cs350\poker\model\Deck.class
+cs350\poker\model\Hand.class
+cs350\poker\model\Cardi.class
+cs350\poker\analysis\HandComparator.class
+cs350\poker\app\FiveCardDraw.class
+cs350\poker\model\Card.class
