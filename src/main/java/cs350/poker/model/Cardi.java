@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package cs350.poker.model;
 
 public interface Cardi {
